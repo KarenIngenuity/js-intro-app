@@ -186,8 +186,8 @@
 // JAVASCRIPT EQUALITY CHECK:
 // 5 == 5 // true
 // 5 == "5" // true
-// 5 === "5" // false
-// 5 !== "5" // true
+// 5 === "5" // false \,-- always use these two
+// 5 !== "5" // true  /
 // 5 != "5" // false
 
 
